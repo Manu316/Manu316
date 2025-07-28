@@ -3,18 +3,18 @@
 </div>
 
 <div style="text-align: justify;">
-  <h2>Sobre mí</h2>
+  <h2>About me</h2>
   <p>
-    Hola soy Carlos Manuel García Cruz, estudiante de Ingeniería de Software en la Universidad Veracruzana. Me apasiona crear soluciones que impacten de manera positiva en la vida de las personas. A lo largo de mi formación academica, he trabajado en diversos proyectos que combinan la tecnología con la creatividad, desde plataformas de música enfocadas en artistas locales hasta sistemas de ayuda social y aprendizaje.
+    Hi, I'm Carlos Manuel García Cruz, a Software Engineering student at Universidad Veracruzana. I am passionate about creating solutions that have a positive impact on people's lives. Throughout my academic background, I have worked on several projects that combine technology with creativity, from music platforms focused on local artists to social support and learning systems.
   </p>
   <p>
-    Me gusta explorar nuevas ideas, aprender constantemente y desarrollar software que no solo funcione, sino que también sea útil, intuitivo y escalable. En mi portafolio encontrarás una muestra de mis proyectos personales, académicos y colaborativos en los que he trabajado.
+    I like to explore new ideas, learn constantly and develop software that not only works, but is also useful, intuitive and scalable. In my portfolio you will find a sample of my personal, academic and collaborative projects I have worked on.
   </p>
 </div>
 
 
 <div style="text-align: justify;">
-  <h2>Lenguajes de Programación y Frameworks </h2>
+  <h2>Programming Languages & Frameworks </h2>
   <p>
 - Java
   </p>
@@ -27,14 +27,14 @@
 - JavaScript (Vue.js) 
   </p>
 
-  <h2>Bases de Datos  </h2>  
+  <h2>Databases </h2>  
   </p>
-MySQL – Bases de datos relacionales 
+MySQL – Relational databases
   </p>
 
 <br>
 
-## Proyectos 
+## Proyects 
 <table>
 <tr>
 <td width="50%">
@@ -46,7 +46,7 @@ MySQL – Bases de datos relacionales
 </a>
 
 </p>
-<p>Este proyecto es un frontend desarrollado con Vue.js, que gestiona su estado con Pinia y la navegación con Vue Router. Utiliza Axios para la comunicación con APIs y cuenta con un sistema de autenticación integrado.</p>
+<p>This project is a frontend developed with Vue.js, which manages its state with Pinia and navigation with Vue Router. It uses Axios for communication with APIs and has an integrated authentication system.</p>
 </div>
                                                                                       
 </td>
@@ -61,7 +61,7 @@ MySQL – Bases de datos relacionales
 </a>
 
 </p>
-<p>Este proyecto se trata de una aplicación móvil Android en Kotlin para aprendizaje de lengua de señas mexicana, que ofrece autenticación, navegación por cursos y lecciones, y utiliza Firebase para la gestión de datos y usuarios.</p>
+<p>This project is an Android mobile application in Kotlin for Mexican sign language learning, which provides authentication, course and lesson navigation, and uses Firebase for data and user management.</p>
 </div>                                                            
 </table>                                                                                 
 </div>
@@ -78,7 +78,7 @@ MySQL – Bases de datos relacionales
 </a>
 
 </p>
-<p>Complemento de IncluNet. Página web que presenta a la aplicación móvil para enseñar lengua de señas de forma interactiva y gamificada a personas con discapacidad auditiva, facilitando su comunicación.</p>
+<p>Complement of IncluNet. Website that presents the mobile application to teach sign language in an interactive and gamified way to people with hearing disabilities, facilitating their communication.</p>
 </div>
                                                                                       
 </td>       
@@ -92,7 +92,7 @@ MySQL – Bases de datos relacionales
 </a>
 
 </p>
-<p>Esta aplicación Java es una libreta de direcciones que permite a los usuarios gestionar contactos (añadir, eliminar, buscar y mostrar ordenados) a través de un menú, utilizando un diseño Singleton para la gestión de datos.</p>
+<p>This Java application is an address book that allows users to manage contacts (add, delete, search and display sorted) through a menu, using a Singleton design for data management.</p>
 </div>
                                                                                       
 </td>  
