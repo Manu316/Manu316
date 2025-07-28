@@ -1,15 +1,24 @@
 <div align="center">
-<h1 align="center">Hola, soy Carlos 👋</h1>
+<h1 align="center">
+  Hi, I'm Carlos
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1>
 </div>
 
+<container align="center">
+  <div class="mt-1" align="center">
+    <a href="https://www.linkedin.com/in/carlos-manuel-garc%C3%ADa-cruz-780b1425b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  </div>
 <div style="text-align: justify;">
   <h2>About me</h2>
+  <img align="right" style="width:14rem; height:auto; border-radius:10 " src="https://i.pinimg.com/1200x/83/16/97/83169708c117d810803ffd3e9eb10fd7.jpg"/>
   <p>
     Hi, I'm Carlos Manuel García Cruz, a Software Engineering student at Universidad Veracruzana. I am passionate about creating solutions that have a positive impact on people's lives. Throughout my academic background, I have worked on several projects that combine technology with creativity, from music platforms focused on local artists to social support and learning systems.
   </p>
   <p>
     I like to explore new ideas, learn constantly and develop software that not only works, but is also useful, intuitive and scalable. In my portfolio you will find a sample of my personal, academic and collaborative projects I have worked on.
   </p>
+  
 </div>
 
 
@@ -42,7 +51,7 @@ MySQL – Relational databases
 <div align="center">
 <p>
 <a href="https://github.com/Manu316/Fagia" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 
 </p>
@@ -57,7 +66,7 @@ MySQL – Relational databases
 <div align="center">
 <p>
 <a href="https://github.com/Manu316/IncuNet-Anfeca" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 
 </p>
@@ -74,7 +83,7 @@ MySQL – Relational databases
 <div align="center">
 <p>
 <a href="https://github.com/Manu316/inclunet-pagina" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 
 </p>
@@ -88,7 +97,7 @@ MySQL – Relational databases
 <div align="center">
 <p>
 <a href="https://github.com/Manu316/GarciaCruz_LibretaDirecciones" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 
 </p>
