@@ -117,9 +117,3 @@ MySQL – Relational databases
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Manu316&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
