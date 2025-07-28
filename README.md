@@ -11,7 +11,7 @@
   </div>
 <div style="text-align: justify;">
   <h2>About me</h2>
-  <img align="right" style="width:14rem; height:auto; border-radius:10 " src="https://i.pinimg.com/1200x/83/16/97/83169708c117d810803ffd3e9eb10fd7.jpg"/>
+  <img align="right" style="width:13rem; height:auto; border-radius:10 " src="https://i.pinimg.com/1200x/83/16/97/83169708c117d810803ffd3e9eb10fd7.jpg"/>
   <p>
     Hi, I'm Carlos Manuel García Cruz, a Software Engineering student at Universidad Veracruzana. I am passionate about creating solutions that have a positive impact on people's lives. Throughout my academic background, I have worked on several projects that combine technology with creativity, from music platforms focused on local artists to social support and learning systems.
   </p>
